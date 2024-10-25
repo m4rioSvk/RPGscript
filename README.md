@@ -1,0 +1,2 @@
+# RPGscript
+test script
